@@ -9,7 +9,7 @@
     'website': "http://merveillezebaze.pythonanywhere.com/",
     'category': 'Sales',
     'version': '0.1',
-    'price':10,
+    'price': 7.5,
     'currency': 'EUR',
     'depends': ['sale_stock', 'sale_management'],
 
